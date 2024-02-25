@@ -88,7 +88,7 @@ public class Main {
         byte monthNumber=12;
         System.out.println("Месяц" +monthNumber);
         switch(monthNumber){
-            case 13:
+            case 12:
             case 1:
             case 2:
                 System.out.println("Это  зима");
